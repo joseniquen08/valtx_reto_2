@@ -1,16 +1,13 @@
-# reto_2
+# Reto 2
 
 A new Flutter project.
 
-## Getting Started
+## Reference
 
-This project is a starting point for a Flutter application.
+<img src="https://raw.githubusercontent.com/joseniquen08/valtx_reto_2/main/assets/images/reto_2.jpeg" alt="reto 2" width="500" />
 
-A few resources to get you started if this is your first Flutter project:
+## Result
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://raw.githubusercontent.com/joseniquen08/valtx_reto_2/main/assets/images/result_2_1.jpeg" alt="result 2.1" width="500" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://raw.githubusercontent.com/joseniquen08/valtx_reto_2/main/assets/images/result_2_2.jpeg" alt="result 2.2" width="500" />
