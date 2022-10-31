@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Reference
 
-<img src="https://raw.githubusercontent.com/joseniquen08/valtx_reto_2/main/assets/images/reto_2.png" alt="reto 2" width="500" />
+<img src="https://raw.githubusercontent.com/joseniquen08/valtx_reto_2/main/assets/images/reto_2.jpeg" alt="reto 2" width="500" />
 
 ## Result
 
